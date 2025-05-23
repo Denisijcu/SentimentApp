@@ -4,7 +4,7 @@ Esta app solo es de caracter educativo. Implementar un modelo de sentimientos.
 **Aplicación educativa para análisis de sentimientos usando IA.**  
 
 ## 📱 Demo en Video  
-[![Ver Demo](https://img.shields.io/badge/VER_DEMO-FF6B35?style=for-the-badge&logo=github&logoColor=white)](sentimentApp_demo.mp4)  
+[![Ver Demo](https://img.shields.io/badge/VER_DEMO-FF6B35?style=for-the-badge&logo=github&logoColor=white)](sentiment_app.mp4)  
 
 <div align="center">
   <a href="sentiment_app.mp4">
