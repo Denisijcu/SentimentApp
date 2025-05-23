@@ -7,7 +7,7 @@ Esta app solo es de caracter educativo. Implementar un modelo de sentimientos.
 [![Ver Demo](https://img.shields.io/badge/VER_DEMO-FF6B35?style=for-the-badge&logo=github&logoColor=white)](sentimentApp_demo.mp4)  
 
 <div align="center">
-  <a href="sentimentApp_demo.mp4">
+  <a href="sentiment_app.mp4">
     <img src="screenshot.png" alt="Captura de la app" width="300">
   </a>
 </div>  
